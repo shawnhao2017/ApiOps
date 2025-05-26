@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/subscriptions/26e1d07b-4895-4eb9-bb04-82ce297ddee7/resourceGroups/Hs-test-APIM/providers/Microsoft.ApiManagement/service/hs-apim-1/products/unlimited",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/26e1d07b-4895-4eb9-bb04-82ce297ddee7/resourceGroups/Hs-test-APIM/providers/Microsoft.ApiManagement/service/hs-apim-1/users/1",
+    "state": "active"
+  }
+}

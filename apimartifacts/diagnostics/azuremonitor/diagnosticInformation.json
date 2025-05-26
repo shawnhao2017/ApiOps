@@ -1,0 +1,34 @@
+{
+  "properties": {
+    "loggerId": "/subscriptions/26e1d07b-4895-4eb9-bb04-82ce297ddee7/resourceGroups/Hs-test-APIM/providers/Microsoft.ApiManagement/service/hs-apim-1/loggers/azuremonitor",
+    "backend": {
+      "request": {
+        "dataMasking": {
+          "queryParams": [
+            {
+              "mode": "Hide",
+              "value": "*"
+            }
+          ]
+        }
+      }
+    },
+    "frontend": {
+      "request": {
+        "dataMasking": {
+          "queryParams": [
+            {
+              "mode": "Hide",
+              "value": "*"
+            }
+          ]
+        }
+      }
+    },
+    "logClientIp": true,
+    "sampling": {
+      "percentage": 100,
+      "samplingType": "fixed"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "displayName": "test",
+    "secret": false,
+    "tags": [],
+    "value": "bbb"
+  }
+}
