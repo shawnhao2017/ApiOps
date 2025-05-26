@@ -1,0 +1,18 @@
+{
+  "properties": {
+    "path": "econ",
+    "apiRevision": "1",
+    "authenticationSettings": {},
+    "isCurrent": true,
+    "displayName": "Ecommerce Demo API",
+    "protocols": [
+      "https"
+    ],
+    "serviceUrl": "https://aca-apim-hub-test.delightfulsand-a406a1ca.japaneast.azurecontainerapps.io/ecommerce/api/v1",
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": true
+  }
+}

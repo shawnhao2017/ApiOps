@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "path": "httpbin",
+    "apiRevision": "1",
+    "authenticationSettings": {},
+    "description": "",
+    "isCurrent": true,
+    "displayName": "Httpbin",
+    "protocols": [
+      "https"
+    ],
+    "serviceUrl": "http://httpbin.org",
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": false
+  }
+}
